@@ -1,0 +1,33 @@
+.body_backgorund {
+    background-image: url("https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2016/07/01132333/principal.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: rgb(0, 4, 255); 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: rgb(85, 84, 84); 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #fd04b2;
+    border: none;
+    color: rgb(94, 91, 91);
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
